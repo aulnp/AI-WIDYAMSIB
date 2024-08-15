@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Hello! I'm currently applying for an AI Engineer Intern position at Widya Robotics through the MSIB Batch 7 program. As part of the recruitment process, I developed a vehicle counter system using deep learning. This project aims to count vehicles passing through a specific gate in a video, a task that is crucial for traffic monitoring, urban planning, and public safety.
+Hello! 👋👋
+I'm currently applying for an AI Engineer Intern position at Widya Robotics through the MSIB Batch 7 program. As part of the recruitment process, I developed a vehicle counter system using deep learning. This project aims to count vehicles passing through a specific gate in a video, a task that is crucial for traffic monitoring, urban planning, and public safety.
 
 ## Objective
 
